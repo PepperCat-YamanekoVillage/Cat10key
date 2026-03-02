@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+SW10,SW_Push,Switch_1u,-0.65,-8.86,0.0,top
+SW11,SW_Push,Switch_1u,-18.65,-30.86,0.0,top
+SW2,SW_Push,Switch_1u,18.64,24.15,-90.0,top
+SW3,SW_Push,Switch_1u,38.85,0.64,0.0,top
+SW4,SW_Push,Switch_1u,17.35,-8.86,0.0,top
+SW5,SW_Push,Switch_1u,-18.64,22.85,90.0,top
+SW6,SW_Push,Switch_1u,-40.15,0.64,0.0,top
+SW7,SW_Push,Switch_1u,-18.65,-8.86,0.0,top
+SW8,SW_Push,Switch_1u,17.35,-30.86,0.0,top
+SW9,SW_Push,Switch_1u,-0.65,-30.86,0.0,top

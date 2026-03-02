@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LCSC,Quantity
+SW_Push,SW5,Switch_1u,,1
+SW_Push,SW11,Switch_1u,,1
+SW_Push,SW3,Switch_1u,,1
+SW_Push,SW8,Switch_1u,,1
+SW_Push,SW10,Switch_1u,,1
+SW_Push,SW7,Switch_1u,,1
+SW_Push,SW4,Switch_1u,,1
+SW_Push,SW2,Switch_1u,,1
+RP2040-Zero,U1,RP2040-Zero-THT,,1
+SW_Push,SW9,Switch_1u,,1
+SW_Push,SW6,Switch_1u,,1
